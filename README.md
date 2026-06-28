@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Marcelly Neves
+# 👋 Olá, eu sou Marcelly Freitas
 
 ## Desenvolvedora Full Stack | C#/.NET • Java • PHP • React • Next.js
 
@@ -83,8 +83,8 @@ Busco oportunidades para atuar como Desenvolvedora Full Stack, contribuindo para
 
 # 📫 Contato
 
-* **GitHub:** [Marcelly Neves](https://github.com/marcellyfreitas)
-* **LinkedIn:** [Marcelly Neves](https://www.linkedin.com/in/marcelly-neves-15a352174/)
+* **GitHub:** [Marcelly Freitas](https://github.com/marcellyfreitas)
+* **LinkedIn:** [Marcelly Freitas](https://www.linkedin.com/in/marcelly-neves-15a352174/)
 * **E-mail:** [marcellynevesti@gmail.com](mailto:marcellynevesti@gmail.com)
 
 ---
