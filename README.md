@@ -1,16 +1,92 @@
-## Hi there 👋
+# 👋 Olá, eu sou Marcelly Freitas
 
-<!--
-**marcellyfreitas/marcellyfreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Desenvolvedora Full Stack | C#/.NET • Java • PHP • React • Next.js
 
-Here are some ideas to get you started:
+Sou desenvolvedora Full Stack apaixonada por transformar problemas reais em soluções bem estruturadas e fáceis de manter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho experiência no desenvolvimento de aplicações web e APIs, atuando tanto no backend quanto no frontend. Gosto de participar de todo o ciclo de desenvolvimento, desde o levantamento dos requisitos até a entrega da aplicação em produção.
+
+Acredito que um bom software vai além do código: ele precisa ser organizado, escalável, intuitivo para o usuário e simples de evoluir.
+
+---
+
+# 💼 Sobre mim
+
+* 💻 Desenvolvimento de aplicações Full Stack
+* ⚙️ Experiência com arquitetura de APIs REST
+* 🏗️ Foco em código limpo e boas práticas
+* 🚀 Interesse constante em novas tecnologias
+* 🤝 Facilidade para trabalhar em equipe e aprender rapidamente
+* 📚 Sempre buscando evoluir como desenvolvedora
+
+---
+
+# 🚀 Tecnologias
+
+## Backend
+
+* C#
+* ASP.NET Core
+* Java
+* Spring Boot
+* PHP
+* Laravel
+
+## Frontend
+
+* React
+* Next.js
+* JavaScript
+* TypeScript
+* HTML
+* CSS
+
+## Banco de Dados
+
+* SQL Server
+* PostgreSQL
+* MySQL
+
+## Ferramentas
+
+* Git
+* Docker
+* Swagger
+* Postman
+* Linux
+* REST APIs
+
+---
+
+# 📌 O que você encontrará nos meus repositórios
+
+Aqui compartilho projetos que demonstram minhas habilidades no desenvolvimento Full Stack, incluindo:
+
+* APIs REST
+* Sistemas de gestão
+* Aplicações web
+* Integração entre frontend e backend
+* Arquitetura em camadas
+* Boas práticas de desenvolvimento
+* Autenticação e autorização
+* Persistência de dados
+
+Cada projeto busca representar situações próximas do mercado, com foco em organização, qualidade do código e escalabilidade.
+
+---
+
+# 🎯 Meu objetivo
+
+Busco oportunidades para atuar como Desenvolvedora Full Stack, contribuindo para a construção de produtos de qualidade, aprendendo continuamente e gerando impacto através da tecnologia.
+
+---
+
+# 📫 Contato
+
+* **GitHub:** https://github.com/SEU-USUARIO
+* **LinkedIn:** https://linkedin.com/in/SEU-LINKEDIN
+* **E-mail:** [seuemail@email.com](mailto:seuemail@email.com)
+
+---
+
+⭐ Obrigada pela visita! Fique à vontade para explorar meus projetos e acompanhar minha evolução como desenvolvedora.
