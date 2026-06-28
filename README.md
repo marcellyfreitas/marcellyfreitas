@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Marcelly Freitas
+# 👋 Olá, eu sou Marcelly Neves
 
 ## Desenvolvedora Full Stack | C#/.NET • Java • PHP • React • Next.js
 
