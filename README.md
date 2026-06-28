@@ -83,9 +83,9 @@ Busco oportunidades para atuar como Desenvolvedora Full Stack, contribuindo para
 
 # 📫 Contato
 
-* **GitHub:** https://github.com/SEU-USUARIO
-* **LinkedIn:** https://linkedin.com/in/SEU-LINKEDIN
-* **E-mail:** [seuemail@email.com](mailto:seuemail@email.com)
+* **GitHub:** [Marcelly Neves](https://github.com/marcellyfreitas)
+* **LinkedIn:** [Marcelly Neves](https://www.linkedin.com/in/marcelly-neves-15a352174/)
+* **E-mail:** [marcellynevesti@gmail.com](mailto:marcellynevesti@gmail.com)
 
 ---
 
